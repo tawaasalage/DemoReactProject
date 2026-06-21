@@ -23,7 +23,7 @@ export default function AppNavBar() {
   return (
     <header className="topbar">
       <NavLink to="/" className="brand">
-        Student Manager
+        Student CRUD
       </NavLink>
       <nav className="nav-actions">
         <CurrentTime />
